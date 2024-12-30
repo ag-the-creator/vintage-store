@@ -117,12 +117,3 @@ function Header() {
 }
 
 export default Header;
-
-
-
-/* xsm:bg-purple-400
-sm:bg-white
-md:bg-gray-900
-lg:bg-red-700
-xl:bg-blue-600
-2xl:bg-yellow-700 */
