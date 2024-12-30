@@ -4,8 +4,6 @@ import Solid from "../icons/star-solid.png";
 import OutlineStar from "../icons/star-outline.png";
 import { use } from "react";
 
-
-
 function Card(props) {
   
   return ( 
@@ -28,18 +26,3 @@ function Card(props) {
 }
 
 export default Card;
-
-
-
-{/* <div className="card max-w-sm w-full lg:max-w-full lg:flex">
-      <img src={Pic} className="w-60"/>
-      <p>
-        <img src={OutlineStar} className="" onClick={starChange}/> 
-      </p>
-      <p className="text-silver">
-        price
-      </p>
-      <p className="text-silver">
-      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem doloribus quas doloremque voluptate ipsa necessitatibus perferendis iusto excepturi eum consequatur?
-      </p>
-    </div> */}
